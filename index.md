@@ -12,3 +12,7 @@
   kubectl run  nginxpod --image=nginx --dry-run=client -o yaml > nginxpo.yaml
 
   ```
+### Using task list 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
